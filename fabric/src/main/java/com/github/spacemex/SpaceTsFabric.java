@@ -6,6 +6,6 @@ public class SpaceTsFabric implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        ExampleMod.initialize();
+        SpaceTs.initialize();
     }
 }
