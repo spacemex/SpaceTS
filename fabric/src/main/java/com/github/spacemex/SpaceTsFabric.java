@@ -1,8 +1,8 @@
-package com.example.mod;
+package com.github.spacemex;
 
 import net.fabricmc.api.ModInitializer;
 
-public class ExampleModFabric implements ModInitializer {
+public class SpaceTsFabric implements ModInitializer {
 
     @Override
     public void onInitialize() {

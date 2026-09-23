@@ -1,10 +1,10 @@
-package com.example.mod;
+package com.github.spacemex;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public final class ExampleMod {
-    public static final String MOD_ID = "example-mod";
+public final class SpaceTs {
+    public static final String MOD_ID = "space-ts";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
     public static void initialize() {

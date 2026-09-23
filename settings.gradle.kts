@@ -16,7 +16,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "example-mod"
+rootProject.name = "space-ts"
 
 include("common")
 include("fabric")

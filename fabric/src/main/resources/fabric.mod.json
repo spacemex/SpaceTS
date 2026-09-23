@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "id": "example-mod",
+  "id": "space-ts",
   "version": "${version}",
-  "name": "Example Mod",
-  "description": "",
+  "name": "SpaceTs",
+  "description": "Adds Typescript support to Minecraft!",
   "authors": [
-    "Example User"
+    "Space_Mex"
   ],
   "license": "MIT",
   "environment": "*",
   "entrypoints": {
     "fabric-datagen": [
-      "com.example.mod.data.ExampleModDataGenerator"
+      "com.github.spacemex.data.SpaceTsDataGenerator"
     ],
     "main": [
-      "com.example.mod.ExampleModFabric"
+      "com.github.spacemex.SpaceTsFabric"
     ],
     "client": [
-      "com.example.mod.client.ExampleModFabricClient"
+      "com.github.spacemex.client.SpaceTsFabricClient"
     ]
   },
   "depends": {
