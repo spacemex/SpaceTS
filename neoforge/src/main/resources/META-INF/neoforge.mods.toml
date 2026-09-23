@@ -2,7 +2,7 @@ license = "MIT"
 issueTrackerURL = "https://github.com/spacemex/SpaceTS/issues"
 
 [[mods]]
-modId = "space-ts"
+modId = "space_ts"
 version = "${version}"
 displayName = "SpaceTs"
 authors = "Space_mex"

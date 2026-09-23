@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "space-ts",
+  "id": "space_ts",
   "version": "${version}",
   "name": "SpaceTs",
   "description": "Adds Typescript support to Minecraft!",
